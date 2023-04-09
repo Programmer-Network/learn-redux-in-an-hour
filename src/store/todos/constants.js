@@ -1,0 +1,3 @@
+export const ADD_TODO_TYPE = "ADD_TODO";
+export const REMOVE_TODO_TYPE = "REMOVE_TODO";
+export const TOGGLE_COMPLETED_TODO = "TOGGLE_COMPLETED_TODO";
